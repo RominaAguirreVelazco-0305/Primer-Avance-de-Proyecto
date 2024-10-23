@@ -4,6 +4,19 @@ Bienvenido al proyecto **Microinversiones con Sugerencias IA** — una plataform
 
 ---
 
+## 📸 Capturas de Pantalla del login del proyecto 
+
+### Página Principal del login
+![image](https://github.com/user-attachments/assets/1f663052-755a-4392-9ae9-36e39a192315)
+![image](https://github.com/user-attachments/assets/171590e7-8b1e-4a0d-8895-ec64d59d2464)
+
+
+### Página Principal del registro
+![image](https://github.com/user-attachments/assets/f6ce1ed0-0be2-49a5-9e16-f61fb9bca58f)
+![image](https://github.com/user-attachments/assets/91e61cf4-7bfe-4bde-8f5a-318d42bf9454)
+![image](https://github.com/user-attachments/assets/e0c54607-643c-4ed6-a67e-9d11b3fe1096)
+
+
 ## 🚀 Características Principales
 
 - 🧠 **Sugerencias Inteligentes de Inversión** basadas en algoritmos de IA.
@@ -167,25 +180,11 @@ Se implementó **Laravel Jetstream** para la autenticación. Incluye:
 
 ---
 
-## 🚼 Desarrollado por
+## ✍️ Autor
+- Romina Jacqueline Aguirre Velazco
+- 📧 romina.aguirre8841@alumnos.udg.mx
+- Desarrollado con ❤️ por Romina Aguirre. 
 
-Este proyecto fue desarrollado por **[Tu Nombre]**. Puedes contactarme en:
-
-- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)
-- 💻 GitHub: [tu-usuario](https://github.com/tu-usuario)
-- 👨‍💻 LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-
----
-
-## 🚨 Contribuir
-
-Si deseas contribuir, no dudes en hacer un fork del repositorio y enviar pull requests. Cualquier sugerencia para mejorar el proyecto es bienvenida.
-
-1. **Hacer un Fork del Proyecto**.
-2. Crear una rama para tu función (`git checkout -b feature/nueva-funcion`).
-3. **Hacer commit** de tus cambios (`git commit -m 'Agrega nueva funcionalidad'`).
-4. Hacer un **push** a la rama (`git push origin feature/nueva-funcion`).
-5. Abrir un **pull request**.
 
 ---
 
@@ -197,13 +196,4 @@ Gracias a todos los desarrolladores de Laravel y a la comunidad de código abier
 
 ---
 
-## 📝 Reporte del Proyecto
-
-El repositorio incluye un reporte completo del proyecto **Microinversiones con IA**, el cual contiene información detallada sobre los objetivos, planificación, implementación, y resultados obtenidos. Puedes encontrar el reporte dentro del directorio principal del repositorio bajo el nombre `REPORTE_MICROINVERSIONES.md`.
-
----
-
-## 🏒 Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
