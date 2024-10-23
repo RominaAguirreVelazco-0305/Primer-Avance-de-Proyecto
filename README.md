@@ -1,66 +1,209 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Microinversiones con IA 🌐⚙️🧠
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Bienvenido al proyecto **Microinversiones con Sugerencias IA** — una plataforma innovadora que utiliza Inteligencia Artificial para brindar recomendaciones de inversiones accesibles a todos. A través de este sistema, los usuarios pueden descubrir oportunidades de microinversión respaldadas por análisis automatizados y sugerencias inteligentes.
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🚀 Características Principales
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- 🧠 **Sugerencias Inteligentes de Inversión** basadas en algoritmos de IA.
+- 📊 **Análisis de Riesgos**: evaluación automática de riesgos en cada microinversión.
+- 🛠️ **Panel de Usuario** con seguimiento de inversiones.
+- 👋 **Interfaz amigable y moderna** para facilitar el uso.
+- 💻 **Registro e inicio de sesión** integrados, incluyendo proveedores sociales (Facebook y Google).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 🛠️ Tecnologías Utilizadas
 
-## Learning Laravel
+Este proyecto está construido usando las siguientes tecnologías:
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Laravel** (🚀 [documentación](https://laravel.com/docs)) — framework de backend que nos permite construir lógica robusta y escalable.
+  - 🎉 Laravel Jetstream para la autenticación y manejo de sesiones.
+- **Inteligencia Artificial (IA)**: para sugerencias de inversión y predicciones basadas en datos.
+  - 🧠 Modelos de IA entrenados para entender patrones de mercado.
+- **HTML5 y CSS3** — para la estructura y el estilo de la aplicación.
+  - 💄 Tailwind CSS para una estilización moderna y rápida.
+- **JavaScript** ⭐️ — para agregar interactividad en el frontend.
+- **MySQL** 📁 — base de datos utilizada para almacenar información de usuarios e inversiones.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🤓 Sobre Laravel
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Laravel es un framework para aplicaciones web con una sintaxis expresiva y elegante. Creemos que el desarrollo debe ser una experiencia agradable y creativa para ser verdaderamente satisfactorio. Laravel elimina las dificultades del desarrollo al facilitar tareas comunes utilizadas en muchos proyectos web, tales como:
 
-## Laravel Sponsors
+- 🚀 Motor de enrutamiento simple y rápido.
+- 💡 Contenedor de inyección de dependencias potente.
+- 🔄 Soporte para múltiples back-ends para almacenamiento de sesiones y caché.
+- 📦 ORM de base de datos expresivo e intuitivo.
+- 🗄️ Migraciones de esquema independientes de la base de datos.
+- 🔧 Procesamiento robusto de trabajos en segundo plano.
+- 📡 Transmisión de eventos en tiempo real.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Laravel es accesible, potente y proporciona herramientas necesarias para aplicaciones grandes y robustas.
 
-### Premium Partners
+### Aprender Laravel
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Laravel tiene la documentación más extensa y completa y una biblioteca de tutoriales en video de todos los frameworks modernos para aplicaciones web, lo que facilita comenzar con el framework.
 
-## Contributing
+También puedes probar el Laravel Bootcamp, donde te guiarán a través de la construcción de una aplicación moderna de Laravel desde cero.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Si prefieres no leer, Laracasts puede ayudarte. Laracasts contiene miles de tutoriales en video sobre una variedad de temas, incluidos Laravel, PHP moderno, pruebas unitarias y JavaScript. Mejora tus habilidades explorando nuestra completa biblioteca de videos.
 
-## Code of Conduct
+### Patrocinadores de Laravel
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Nos gustaría extender nuestro agradecimiento a los siguientes patrocinadores por financiar el desarrollo de Laravel. Si estás interesado en convertirte en patrocinador, por favor visita el programa de [Partners de Laravel](https://laravel.com/partners).
 
-## Security Vulnerabilities
+#### Premium Partners
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Vehikl
+- Tighten Co.
+- WebReinvent
+- Kirschbaum Development Group
+- 64 Robots
+- Curotec
+- Cyber-Duck
+- DevSquad
+- Jump24
+- Redberry
+- Active Logic
+- byte5
+- OP.GG
 
-## License
+## 🚼 Contribuir
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Gracias por considerar contribuir al framework Laravel. La guía de contribución se encuentra en la [documentación de Laravel](https://laravel.com/docs/contributions).
+
+### Código de Conducta
+
+Para garantizar que la comunidad de Laravel sea acogedora para todos, por favor revisa y cumple con el [Código de Conducta](https://laravel.com/docs/contributions#code-of-conduct).
+
+### Vulnerabilidades de Seguridad
+
+Si descubres alguna vulnerabilidad de seguridad en Laravel, por favor envía un correo a Taylor Otwell a [taylor@laravel.com](mailto:taylor@laravel.com). Todas las vulnerabilidades serán abordadas de manera inmediata.
+
+### Licencia
+
+El framework Laravel es software de código abierto bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+
+---
+
+## 🌐 Despliegue del Proyecto
+
+### 🤖 Requisitos Previos
+
+- **PHP >= 8.1** ⚡️
+- **Composer** (para manejar dependencias) ⭐️
+- **MySQL** (base de datos) 📁
+- **Node.js & npm** (para construir assets del frontend) 🌟
+
+### 🚀 Pasos para Instalar
+
+1. **Clonar el Repositorio**
+
+   ```sh
+   git clone https://github.com/tu-usuario/microinversiones-ia.git
+   cd microinversiones-ia
+   ```
+
+2. **Instalar Dependencias de Backend**
+
+   ```sh
+   composer install
+   ```
+
+3. **Instalar Dependencias del Frontend**
+
+   ```sh
+   npm install && npm run dev
+   ```
+
+4. **Configurar Variables de Entorno**
+   
+   Copia el archivo `.env.example` y renomámalo a `.env`. Luego, configura las siguientes variables de entorno:
+
+   ```
+   APP_NAME=Microinversiones
+   APP_URL=http://127.0.0.1:8000
+   DB_DATABASE=microinversiones
+   DB_USERNAME=root
+   DB_PASSWORD=tu_contraseña
+   ```
+
+5. **Generar la Clave de Aplicación**
+
+   ```sh
+   php artisan key:generate
+   ```
+
+6. **Migrar la Base de Datos**
+
+   ```sh
+   php artisan migrate
+   ```
+
+7. **Ejecutar el Servidor de Desarrollo**
+
+   ```sh
+   php artisan serve
+   ```
+
+   Luego, visita `http://127.0.0.1:8000` en tu navegador.
+
+---
+
+## 🔧 Comandos útiles de Artisan
+
+- `php artisan route:list` 🏦 para ver todas las rutas disponibles.
+- `php artisan migrate` 🛠️ para correr migraciones.
+- `php artisan tinker` 🤯 para interactuar con la aplicación desde la línea de comandos.
+
+---
+
+## 💻 Autenticación con Laravel Jetstream
+
+Se implementó **Laravel Jetstream** para la autenticación. Incluye:
+
+- 🔒 **Inicio de sesión y registro** con verificación de email.
+- 🛡️ **Protección de sesiones** y autenticación de dos factores.
+- 🌍 **Opciones de inicio de sesión social** (Google, Facebook).
+
+---
+
+## 🚼 Desarrollado por
+
+Este proyecto fue desarrollado por **[Tu Nombre]**. Puedes contactarme en:
+
+- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)
+- 💻 GitHub: [tu-usuario](https://github.com/tu-usuario)
+- 👨‍💻 LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
+
+---
+
+## 🚨 Contribuir
+
+Si deseas contribuir, no dudes en hacer un fork del repositorio y enviar pull requests. Cualquier sugerencia para mejorar el proyecto es bienvenida.
+
+1. **Hacer un Fork del Proyecto**.
+2. Crear una rama para tu función (`git checkout -b feature/nueva-funcion`).
+3. **Hacer commit** de tus cambios (`git commit -m 'Agrega nueva funcionalidad'`).
+4. Hacer un **push** a la rama (`git push origin feature/nueva-funcion`).
+5. Abrir un **pull request**.
+
+---
+
+## 🙌 Agradecimientos
+
+Gracias a todos los desarrolladores de Laravel y a la comunidad de código abierto por su continuo soporte y aportes.
+
+👏🏻👏🏻👏🏻
+
+---
+
+## 📝 Reporte del Proyecto
+
+El repositorio incluye un reporte completo del proyecto **Microinversiones con IA**, el cual contiene información detallada sobre los objetivos, planificación, implementación, y resultados obtenidos. Puedes encontrar el reporte dentro del directorio principal del repositorio bajo el nombre `REPORTE_MICROINVERSIONES.md`.
+
+---
+
+## 🏒 Licencia
+
+Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+
