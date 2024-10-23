@@ -7,13 +7,18 @@ Bienvenido al proyecto **Microinversiones con Sugerencias IA** — una plataform
 ## 📸 Capturas de Pantalla del login del proyecto 
 
 ### Página Principal del login
+
 ![image](https://github.com/user-attachments/assets/1f663052-755a-4392-9ae9-36e39a192315)
+
 ![image](https://github.com/user-attachments/assets/171590e7-8b1e-4a0d-8895-ec64d59d2464)
 
 
 ### Página Principal del registro
+
 ![image](https://github.com/user-attachments/assets/f6ce1ed0-0be2-49a5-9e16-f61fb9bca58f)
+
 ![image](https://github.com/user-attachments/assets/91e61cf4-7bfe-4bde-8f5a-318d42bf9454)
+
 ![image](https://github.com/user-attachments/assets/e0c54607-643c-4ed6-a67e-9d11b3fe1096)
 
 
